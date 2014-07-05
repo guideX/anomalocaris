@@ -1,0 +1,318 @@
+//////////////////////////////////////////////////////////////////////
+/////////////////////////////// Summary //////////////////////////////
+//////////////////////////////////////////////////////////////////////
+
+		Features:  			        13
+		Components:			        18
+		Number of Files:		        46
+		Size of Files:   		     126841278
+		Size in Library:		      44732751
+
+
+		<Support>
+			Engine
+				Log
+				Kernel
+			Main Installation
+				Script
+				Setup
+				StrTbl
+				RunTime
+				Resource
+		<Data>
+			Disk<1>
+			DefaultFeature
+
+
+//////////////////////////////////////////////////////////////////////
+///////////////////////////// Features ///////////////////////////////
+//////////////////////////////////////////////////////////////////////
+
+*<Support>*
+
+		Component
+		------------------------------------------------------
+
+*<Support>\Engine*
+
+		Component
+		------------------------------------------------------
+
+*<Support>\Engine\Log*
+
+		Component
+		------------------------------------------------------
+
+*<Support>\Engine\Kernel*
+
+		Component
+		------------------------------------------------------
+		"<Engine>Kernel Placeholder"
+		"<Engine>EngineCommonPlaceHolderSelfReg"
+
+*<Support>\Main Installation*
+
+		Component
+		------------------------------------------------------
+
+*<Support>\Main Installation\Script*
+
+		Component
+		------------------------------------------------------
+		"<Support>Script"
+
+*<Support>\Main Installation\Setup*
+
+		Component
+		------------------------------------------------------
+		"<Support>Language Independent OS Independent Files"
+		"<Support>0x0409 OS Independent Files"
+		"<Support>Build Generated Support Files"
+		"<Support>Misc Support Files"
+		"<Support>Misc i64 Support Files"
+		"<Support>Misc x64 Support Files"
+
+*<Support>\Main Installation\StrTbl*
+
+		Component
+		------------------------------------------------------
+		"<Support>0x0409 String Tables"
+
+*<Support>\Main Installation\RunTime*
+
+		Component
+		------------------------------------------------------
+		"<Support>Non-SelfRegistering"
+
+*<Support>\Main Installation\Resource*
+
+		Component
+		------------------------------------------------------
+		"<Support>0x0409 Files"
+
+*<Data>*
+
+		Component
+		------------------------------------------------------
+
+*<Data>\Disk<1>*
+
+		Component
+		------------------------------------------------------
+		"<Disk1>Disk1 Files(1)"
+		"<Disk1>Disk1 Files(2)"
+		"<Disk1>Disk1 Files(3)"
+		"<Disk1>Disk1 Files(4)"
+
+*<Data>\DefaultFeature*
+
+		Component
+		------------------------------------------------------
+		"DefaultComponent"
+		"AssemblyFiles"
+
+
+//////////////////////////////////////////////////////////////////////
+///////////////////////////// Components ////////////////////////////
+//////////////////////////////////////////////////////////////////////
+
+><Engine>Kernel Placeholder<
+
+		Size of Files:   		             0
+
+
+		File                                                    Date        Time         Size         Version            Attributes    MD5                                     Source file
+		------------------------------------------------------  ----------  -----------  -----------  -----------------  ------------  --------------------------------------  ------------------------------------------------
+
+><Engine>EngineCommonPlaceHolderSelfReg<
+
+		Size of Files:   		             0
+
+
+		File                                                    Date        Time         Size         Version            Attributes    MD5                                     Source file
+		------------------------------------------------------  ----------  -----------  -----------  -----------------  ------------  --------------------------------------  ------------------------------------------------
+
+><Support>Script<
+
+		Size of Files:   		        223295
+		Size in Library:		        223295
+
+
+		File                                                    Date        Time         Size         Version            Attributes    MD5                                     Source file
+		------------------------------------------------------  ----------  -----------  -----------  -----------------  ------------  --------------------------------------  ------------------------------------------------
+		"setup.inx"                                             07/04/2014  09:41:18 PM       223295  ""                 "A"           "5b595a855b172f8e6b7f0b01113ad19f"      "c:\dev\team-nexgen\anomolacaris\anomolocaris\setup\anomolocaris\script files\setup.inx"
+
+><Support>Language Independent OS Independent Files<
+
+		Size of Files:   		         11493
+		Size in Library:		          2605
+
+
+		File                                                    Date        Time         Size         Version            Attributes    MD5                                     Source file
+		------------------------------------------------------  ----------  -----------  -----------  -----------------  ------------  --------------------------------------  ------------------------------------------------
+		"license.rtf"                                           11/28/2004  09:52:18 AM        11493  ""                 "A"           "e7eb45e877c8cb80f56e9dbc9504e757"      "c:\program files (x86)\installshield\2010\redist\0409\license.rtf"
+
+><Support>0x0409 OS Independent Files<
+
+		Size of Files:   		             0
+
+
+		File                                                    Date        Time         Size         Version            Attributes    MD5                                     Source file
+		------------------------------------------------------  ----------  -----------  -----------  -----------------  ------------  --------------------------------------  ------------------------------------------------
+
+><Support>Build Generated Support Files<
+
+		Size of Files:   		           125
+		Size in Library:		            99
+
+
+		File                                                    Date        Time         Size         Version            Attributes    MD5                                     Source file
+		------------------------------------------------------  ----------  -----------  -----------  -----------------  ------------  --------------------------------------  ------------------------------------------------
+		"fontdata.ini"                                          07/04/2014  09:41:30 PM           39  ""                 "A"           "00f313e3e007599349a0c4d81c7807c4"      "c:\users\guidex\appdata\local\temp\fontdata.ini"
+		"difxdata.ini"                                          07/04/2014  09:41:30 PM           86  ""                 "A"           "10baa5b67536f4433f37534b9c8bb828"      "c:\users\guidex\appdata\local\temp\difxdata.ini"
+
+><Support>Misc Support Files<
+
+		Size of Files:   		         76583
+		Size in Library:		         17909
+
+
+		File                                                    Date        Time         Size         Version            Attributes    MD5                                     Source file
+		------------------------------------------------------  ----------  -----------  -----------  -----------------  ------------  --------------------------------------  ------------------------------------------------
+		"corecomp.ini"                                          03/06/2006  11:55:04 PM        65503  ""                 "A"           "09d38ceca6a012f4ce5b54f03db9b21a"      "c:\program files (x86)\installshield\2010\redist\language independent\i386\corecomp.ini"
+		"dotnetinstaller.exe"                                   06/10/2009  02:57:52 PM        11080  "16.0.0.328"       "A"           "94b6f434210bfad6abdcf818b8cf350f"      "c:\program files (x86)\installshield\2010\redist\language independent\i386\dotnetinstaller.exe"
+
+><Support>Misc i64 Support Files<
+
+		Size of Files:   		        239416
+		Size in Library:		        103979
+
+
+		File                                                    Date        Time         Size         Version            Attributes    MD5                                     Source file
+		------------------------------------------------------  ----------  -----------  -----------  -----------------  ------------  --------------------------------------  ------------------------------------------------
+		"isbew64.exe"                                           06/10/2009  02:59:18 PM       239416  "16.0.0.328"       "A"           "38eb6c08e3e7e385255119c8c732fa99"      "c:\program files (x86)\installshield\2010\redist\language independent\i64\isbew64.exe"
+
+><Support>Misc x64 Support Files<
+
+		Size of Files:   		        107320
+		Size in Library:		         52026
+
+
+		File                                                    Date        Time         Size         Version            Attributes    MD5                                     Source file
+		------------------------------------------------------  ----------  -----------  -----------  -----------------  ------------  --------------------------------------  ------------------------------------------------
+		"isbew64.exe"                                           06/10/2009  02:59:18 PM       107320  "16.0.0.328"       "A"           "41cb698f967b4d9f2580ea2a21a5a710"      "c:\program files (x86)\installshield\2010\redist\language independent\x64\isbew64.exe"
+
+><Support>0x0409 String Tables<
+
+		Size of Files:   		           519
+		Size in Library:		           263
+
+
+		File                                                    Date        Time         Size         Version            Attributes    MD5                                     Source file
+		------------------------------------------------------  ----------  -----------  -----------  -----------------  ------------  --------------------------------------  ------------------------------------------------
+		"stringtable_0x0409.ips"                                07/04/2014  09:41:18 PM          519  ""                 "A"           "2ec35e1fd2b70d2f70b4f3d0c5444e8a"      "c:\dev\team-nexgen\anomolacaris\anomolocaris\setup\anomolocaris\string tables\stringtable_0x0409.ips"
+
+><Support>Non-SelfRegistering<
+
+		Size of Files:   		        262592
+		Size in Library:		        253568
+
+
+		File                                                    Date        Time         Size         Version            Attributes    MD5                                     Source file
+		------------------------------------------------------  ----------  -----------  -----------  -----------------  ------------  --------------------------------------  ------------------------------------------------
+		"isrt.dll"                                              09/22/2009  01:08:46 AM       261424  "16.0.0.400"       "A"           "ed5aa645392883b21507c8d097fda277"      "c:\program files (x86)\installshield\2010\redist\language independent\i386\isrt.dll"
+		"default.pal"                                           03/06/2006  11:55:02 PM         1168  ""                 "A"           "0abafe3f69d053494405061de2629c82"      "c:\program files (x86)\installshield\2010\redist\language independent\i386\default.pal"
+
+><Support>0x0409 Files<
+
+		Size of Files:   		        389120
+		Size in Library:		         93551
+
+
+		File                                                    Date        Time         Size         Version            Attributes    MD5                                     Source file
+		------------------------------------------------------  ----------  -----------  -----------  -----------------  ------------  --------------------------------------  ------------------------------------------------
+		"_isres_0x0409.dll"                                     06/10/2009  02:18:52 PM       389120  "16.0.0.328"       "A"           "799988f2074c157a0f8b6c48ab975612"      "c:\program files (x86)\installshield\2010\redist\language independent\i386\skins\_isres_0x0409.dll"
+
+><Disk1>Disk1 Files(1)<
+
+		Size of Files:   		             0
+
+
+		File                                                    Date        Time         Size         Version            Attributes    MD5                                     Source file
+		------------------------------------------------------  ----------  -----------  -----------  -----------------  ------------  --------------------------------------  ------------------------------------------------
+		"layout.bin"                                            11/28/2004  10:32:10 AM            0  ""                 "A"           "d41d8cd98f00b204e9800998ecf8427e"      "c:\program files (x86)\installshield\2010\support\build\layout.bin"
+		"data1.hdr"                                             11/28/2004  10:32:10 AM            0  ""                 "A"           "d41d8cd98f00b204e9800998ecf8427e"      "c:\program files (x86)\installshield\2010\support\build\data1.hdr"
+		"data1.cab"                                             11/28/2004  10:32:10 AM            0  ""                 "A"           "d41d8cd98f00b204e9800998ecf8427e"      "c:\program files (x86)\installshield\2010\support\build\data1.cab"
+
+><Disk1>Disk1 Files(2)<
+
+		Size of Files:   		       1457078
+		Size in Library:		       1457078
+
+
+		File                                                    Date        Time         Size         Version            Attributes    MD5                                     Source file
+		------------------------------------------------------  ----------  -----------  -----------  -----------------  ------------  --------------------------------------  ------------------------------------------------
+		"setup.exe"                                             07/04/2014  09:41:30 PM       802816  "16.0.0.400"       "A"           "07c90b494645f1a143d934139f49264a"      "c:\dev\team-nexgen\anomolacaris\anomolocaris\setup\anomolocaris\media\single_exe_image\disk images\disk1\setup.exe"
+		"issetup.dll"                                           09/22/2009  01:08:46 AM       577024  "16.0.0.400"       ""            "1bf0fc52d41be3f3c1025b3971bc49a0"      "c:\dev\team-nexgen\anomolacaris\anomolocaris\setup\anomolocaris\media\single_exe_image\disk images\disk1\issetup.dll"
+		"0x0409.ini"                                            05/21/2009  03:53:56 PM        21494  ""                 "A"           "36affbd6ff77d1515cfc1c5e998fbaf9"      "c:\dev\team-nexgen\anomolacaris\anomolocaris\setup\anomolocaris\media\single_exe_image\disk images\disk1\0x0409.ini"
+		"setup.isn"                                             06/10/2009  02:29:36 PM        55744  ""                 "A"           "c707365d48fdeb3dcb0c9837d15296ac"      "c:\dev\team-nexgen\anomolacaris\anomolocaris\setup\anomolocaris\media\single_exe_image\disk images\disk1\setup.isn"
+
+><Disk1>Disk1 Files(3)<
+
+		Size of Files:   		        223295
+		Size in Library:		        223295
+
+
+		File                                                    Date        Time         Size         Version            Attributes    MD5                                     Source file
+		------------------------------------------------------  ----------  -----------  -----------  -----------------  ------------  --------------------------------------  ------------------------------------------------
+		"setup.inx"                                             07/04/2014  09:41:18 PM       223295  ""                 "A"           "5b595a855b172f8e6b7f0b01113ad19f"      "c:\dev\team-nexgen\anomolacaris\anomolocaris\setup\anomolocaris\script files\setup.inx"
+
+><Disk1>Disk1 Files(4)<
+
+		Size of Files:   		          1223
+		Size in Library:		          1223
+
+
+		File                                                    Date        Time         Size         Version            Attributes    MD5                                     Source file
+		------------------------------------------------------  ----------  -----------  -----------  -----------------  ------------  --------------------------------------  ------------------------------------------------
+		"setup.ini"                                             07/04/2014  09:41:28 PM         1223  ""                 "A"           "623bd4f1f920abadbb108460b24d499f"      "c:\dev\team-nexgen\anomolacaris\anomolocaris\setup\anomolocaris\media\single_exe_image\disk images\disk1\setup.ini"
+
+>DefaultComponent<
+
+		Size of Files:   		     123049987
+		Size in Library:		      41904109
+
+
+		File                                                    Date        Time         Size         Version            Attributes    MD5                                     Source file
+		------------------------------------------------------  ----------  -----------  -----------  -----------------  ------------  --------------------------------------  ------------------------------------------------
+		"team nexgen website.url"                               10/27/2013  12:05:32 PM          116  ""                 "A"           "605cf6c0f77daebed8a4a374d6dac65f"      "c:\dev\team-nexgen\anomolacaris\anomolocaris\team nexgen website.url"
+		"nexgen.ico"                                            11/02/2013  07:08:48 PM         3262  ""                 "A"           "98f11c4c0077f007101b4e128759048f"      "c:\dev\team-nexgen\anomolacaris\anomolocaris\nexgen.ico"
+		"anomolacaris.exe.config"                               04/10/2014  01:56:44 AM          198  ""                 "A"           "2379dd05bf70bc21b6dd4dafb6d9da05"      "c:\dev\team-nexgen\anomolacaris\anomolocaris\cefglue.client\bin\release\anomolacaris.exe.config"
+		"anomolacaris.pdb"                                      07/04/2014  01:40:14 PM        58880  ""                 "A"           "af70e041505bc0f6a9af31b90a2f8ce2"      "c:\dev\team-nexgen\anomolacaris\anomolocaris\cefglue.client\bin\release\anomolacaris.pdb"
+		"xilium.cefglue.windowsforms.pdb"                       07/03/2014  11:43:16 PM        62976  ""                 "A"           "58174fddb0f0df793e0e2cdd40e515e4"      "c:\dev\team-nexgen\anomolacaris\anomolocaris\cefglue.client\bin\release\xilium.cefglue.windowsforms.pdb"
+		"xilium.cefglue.pdb"                                    07/03/2014  11:43:16 PM      1345024  ""                 "A"           "a67a1e6561cfe3b2c608517843902298"      "c:\dev\team-nexgen\anomolacaris\anomolocaris\cefglue.client\bin\release\xilium.cefglue.pdb"
+		"xilium.cefglue.xml"                                    07/03/2014  11:43:16 PM       315826  ""                 "A"           "7cd0c31e9f3a32fabf5ff94b8fb8969c"      "c:\dev\team-nexgen\anomolacaris\anomolocaris\cefglue.client\bin\release\xilium.cefglue.xml"
+		"cef.pak"                                               04/08/2014  11:07:12 AM      1445573  ""                 "A"           "31904a8dbb5ccd071b335127e462672c"      "c:\dev\team-nexgen\anomolacaris\anomolocaris\cefglue.client\bin\release\cef.pak"
+		"cef_sandbox.lib"                                       04/08/2014  11:07:12 AM     57960688  ""                 "A"           "268ee7d0e9e9e2bb9321c6f2e4abd743"      "c:\dev\team-nexgen\anomolacaris\anomolocaris\cefglue.client\bin\release\cef_sandbox.lib"
+		"d3dcompiler_43.dll"                                    04/08/2014  11:07:06 AM      2106216  "9.29.952.3111"    "A"           "1c9b45e87528b8bb8cfa884ea0099a85"      "c:\dev\team-nexgen\anomolacaris\anomolocaris\cefglue.client\bin\release\d3dcompiler_43.dll"
+		"d3dcompiler_46.dll"                                    04/08/2014  11:07:06 AM      3231696  "9.30.960.9200"    "A"           "75895a5668a43f7b8d3cf1f57e937bbe"      "c:\dev\team-nexgen\anomolacaris\anomolocaris\cefglue.client\bin\release\d3dcompiler_46.dll"
+		"devtools_resources.pak"                                04/08/2014  11:07:14 AM      3283047  ""                 "A"           "3fe544f33528d709e764c907c49bdc81"      "c:\dev\team-nexgen\anomolacaris\anomolocaris\cefglue.client\bin\release\devtools_resources.pak"
+		"ffmpegsumo.dll"                                        04/08/2014  11:07:06 AM       888832  ""                 "A"           "0536243cb4331ca3eff04a050e193b82"      "c:\dev\team-nexgen\anomolacaris\anomolocaris\cefglue.client\bin\release\ffmpegsumo.dll"
+		"icudt.dll"                                             04/08/2014  11:07:08 AM      9994752  "4.6.0.0"          "A"           "450553ebd50160a48c3822ba08cf4c0f"      "c:\dev\team-nexgen\anomolacaris\anomolocaris\cefglue.client\bin\release\icudt.dll"
+		"libegl.dll"                                            04/08/2014  11:07:08 AM       102400  "1.2.0.2451"       "A"           "0f9394af4ff7ce6a1215eb9de280be58"      "c:\dev\team-nexgen\anomolacaris\anomolocaris\cefglue.client\bin\release\libegl.dll"
+		"libglesv2.dll"                                         04/08/2014  11:07:08 AM       902144  "1.2.0.2451"       "A"           "a9b37e88ffcb8bbc38796fe0fa8bd961"      "c:\dev\team-nexgen\anomolacaris\anomolocaris\cefglue.client\bin\release\libglesv2.dll"
+		"libcef.dll"                                            04/08/2014  11:07:08 AM     41310208  "3.1750.1644.0"    "A"           "030a4dea33dec5a89ad8c77767e059a3"      "c:\dev\team-nexgen\anomolacaris\anomolocaris\cefglue.client\bin\release\libcef.dll"
+		"libcef.lib"                                            04/08/2014  11:07:08 AM        38066  ""                 "A"           "4d2a481787b868d6c56e2e9536c94e45"      "c:\dev\team-nexgen\anomolacaris\anomolocaris\cefglue.client\bin\release\libcef.lib"
+		"settings.ini"                                          07/04/2014  01:22:58 PM           83  ""                 "A"           "2e7b478e5b42ae6c25c568ed61717317"      "c:\dev\team-nexgen\anomolacaris\anomolocaris\cefglue.client\bin\release\settings.ini"
+
+>AssemblyFiles<
+
+		Size of Files:   		        799232
+		Size in Library:		        399751
+
+
+		File                                                    Date        Time         Size         Version            Attributes    MD5                                     Source file
+		------------------------------------------------------  ----------  -----------  -----------  -----------------  ------------  --------------------------------------  ------------------------------------------------
+		"anomolacaris.exe"                                      07/04/2014  01:40:14 PM       265728  "1.0.0.0"          "A"           "1b2465c36c4d772038834b62aa407d92"      "c:\dev\team-nexgen\anomolacaris\anomolocaris\cefglue.client\bin\release\anomolacaris.exe"
+		"xilium.cefglue.windowsforms.dll"                       07/03/2014  11:43:18 PM        24064  "1.0.0.0"          "A"           "c099aa292b5b93694476d9f8a464eed2"      "c:\dev\team-nexgen\anomolacaris\anomolocaris\cefglue.client\bin\release\xilium.cefglue.windowsforms.dll"
+		"xilium.cefglue.dll"                                    07/03/2014  11:43:16 PM       509440  "3.0.0.0"          "A"           "f0b9f6f0d51fc888d4fa582773f0a439"      "c:\dev\team-nexgen\anomolacaris\anomolocaris\cefglue.client\bin\release\xilium.cefglue.dll"
