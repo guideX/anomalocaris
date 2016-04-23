@@ -218,6 +218,7 @@
             this.radPageView1.TabIndex = 2;
             this.radPageView1.Text = "radPageView1";
             this.radPageView1.ThemeName = "Office2010Black";
+            this.radPageView1.SelectedPageChanged += new System.EventHandler(this.radPageView1_SelectedPageChanged);
             // 
             // mnuPopup
             // 

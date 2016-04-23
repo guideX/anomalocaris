@@ -226,5 +226,9 @@ namespace Anomolacaris {
                 throw ex;
             }
         }
+
+        private void radPageView1_SelectedPageChanged(object sender, EventArgs e) {
+
+        }
     }
 }
